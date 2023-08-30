@@ -6,5 +6,6 @@
 git clone https://github.com/mxnv03/Avito_test_task.git
 ## 3. Установить зависимости командой:
 pip install requirements.txt
-## 4. Прописать команду:
-python -m main.py
+## 4. Запустить тест командой:
+python -m unittest main.py
+
